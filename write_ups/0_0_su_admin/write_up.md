@@ -12,6 +12,7 @@
 ### Additional Resources
 
 `admin_flag.png`
+
 ![admin_flag.png](res/admin_flag.png)
 
 ## Tasks
@@ -41,6 +42,7 @@ We start by getting as close as we can with the following settings:
 | Color overlay #2 | 1     |
 
 `flag_designer_at_the_limit.png`
+
 ![flag_designer_at_the_limit.png](res/flag_designer_at_the_limit.png)
 
 Unfortunately, there seems to be no way to get the cool overlay in the center!
@@ -48,11 +50,13 @@ It is obvious that we need to take a look at the flag generation and as a first 
 the flag image in a separate browser tab.
 
 `flag_in_browser_original.png`
+
 ![flag_in_browser_original.png](res/flag_in_browser_original.png)
 
 Lets see what changing the numbers in the URL does....
 
 `flag_in_browser_modified.png`
+
 ![flag_in_browser_modified.png](res/flag_in_browser_modified.png)
 
 This is the result of bumping the first numeric parameter 7 up to 8.
@@ -60,6 +64,7 @@ Next, we make an educated guess that the parameter which is currently 0 represen
 change it to 15, which is out of bounds by 1.
 
 `flag_in_browser_solution.png`
+
 ![flag_in_browser_solution.png](res/flag_in_browser_solution.png)
 
 ### Flag
