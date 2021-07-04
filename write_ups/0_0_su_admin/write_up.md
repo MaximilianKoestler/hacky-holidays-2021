@@ -1,5 +1,7 @@
 # TEASER: su admin
 
+*web*
+
 ## Challenge Information
 
 > You arrived at the launch platform of SPACE RACE. Teams around you are preparing for the event the
