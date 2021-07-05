@@ -152,12 +152,12 @@ them the favor.
 ```
 $ java -jar BowShock.jar
 Oh damn, so much magnetosphere around here!
-Set the amount of plasma to the correct amount to minimize bow shock: 
+Set the amount of plasma to the correct amount to minimize bow shock:
 333
 We survive another day!
-Set the amount of plasma to the correct amount to minimize bow shock: 
+Set the amount of plasma to the correct amount to minimize bow shock:
 942
-Set the amount of plasma to the correct amount to minimize bow shock: 
+Set the amount of plasma to the correct amount to minimize bow shock:
 142
 Victory!
 CTF{bowsh0ckd_1417}
