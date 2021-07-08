@@ -20,6 +20,26 @@ import strutils
 import times
 import unidecode
 
+################################################################################
+# Setup timing at the beginning
+################################################################################
+
+# Make sure we go back some some time to account for the server start window
+const BACK_WINDOW = 2
+
+# We look into the future by this much
+const FRONT_WINDOW = 0
+
+# Number of nanoseconds to iterate over (large numbers take quite a long time!)
+const MAX_NANOSECONDS = convert(Seconds, Nanoseconds, BACK_WINDOW + FRONT_WINDOW)
+
+let startSeconds = times.getTime().toUnix - BACK_WINDOW
+let startNanoSeconds = convert(Seconds, Nanoseconds, startSeconds)
+
+################################################################################
+# Utilities for mines and grids
+################################################################################
+
 # Stolen from `mileslazer.nim`
 proc minesGrid(mines: uint64, steps: uint64): string =
     var grid = ""
@@ -79,18 +99,6 @@ var expectedMines = reverseGrid(grid)
 ################################################################################
 # Guess the next grid and output it
 ################################################################################
-
-# Make sure we go back some some time to account for the server start window
-const BACK_WINDOW = 2
-
-# We look into the future by this much
-const FRONT_WINDOW = 0
-
-# Number of nanoseconds to iterate over (large numbers take quite a long time!)
-const MAX_NANOSECONDS = convert(Seconds, Nanoseconds, BACK_WINDOW + FRONT_WINDOW)
-
-let startSeconds = times.getTime().toUnix - BACK_WINDOW
-let startNanoSeconds = convert(Seconds, Nanoseconds, startSeconds)
 
 echo fmt"Starting search within {MAX_NANOSECONDS} ns"
 
