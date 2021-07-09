@@ -24,7 +24,15 @@ Write-ups for this year's Hacky Holidays CTF challenges.
 
 ## Phase 2
 
-TBD
+- [Power Snacks](2_0_power_snacks/write_up.md)
+- [Injection traffic](2_1_injection_traffic/write_up.md)
+- [Unidentified Graphics Object](2_2_unidentified_graphics_object/write_up.md)
+- [Scorching](2_3_scorching/write_up.md)
+- [Packed](2_4_packed/write_up.md)
+- [Cute Invoice](2_5_cute_invoice/write_up.md)
+- [Supply and Demand](2_6_supply_and_demand/write_up.md)
+- [Rover](2_7_rover/write_up.md)
+- [Engine Control](2_8_engine_control/write_up.md)
 
 ## Phase 3
 
